@@ -6,6 +6,6 @@ def fizzbuzz val
     elsif val % 3 == 0 && val % 5 == 0
       "FizzBuzz"
     else
-      
+      nil
 end
 end
